@@ -1,0 +1,40 @@
+User-Agent: MSNBot
+Allow: /
+Disallow: /
+
+User-Agent: Slurp
+Allow: /
+Disallow: /
+
+User-Agent: Lycos
+Allow: /
+Disallow: /
+
+User-Agent: Seekbot
+Allow: /
+Disallow: /
+
+User-Agent: Sistrix
+Allow: /
+Disallow: /
+
+User-Agent: SearchmetricsBot
+Allow: /
+Disallow: /
+
+User-Agent: BacklinkCrawler
+Allow: /
+Disallow: /
+
+User-Agent: SEOkicks-Robot
+Allow: /
+Disallow: /
+
+User-Agent: xovi
+Allow: /
+Disallow: /
+
+User-Agent: Googlebot-Image
+Allow: /
+Disallow: /
+
